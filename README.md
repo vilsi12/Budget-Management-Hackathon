@@ -18,4 +18,4 @@ run django server -> cd expense -> python manage.py runserver
 
 Copy the given link and open it in browser like link/register/
 
-video demo - https://drive.google.com/file/d/1sjpsWSP30GToIgeVKnn2f3N9hmMAsofI/view?usp=drivesdk
+Presentation link - https://docs.google.com/presentation/d/1fk1xRo8qYhLf95ZMc5vMtyrcil_exBLC/edit#slide=id.gb898825176_0_5
